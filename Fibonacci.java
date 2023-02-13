@@ -1,3 +1,4 @@
+package com.sun;
 class Fibonacci {
     public static void main(String[] args) {
         int a1 = 0, a2 = 1, a3, i, count = 10;

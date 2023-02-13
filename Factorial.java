@@ -1,3 +1,5 @@
+package com.sun;
+
 class Factorial {
     public static void main(String[] args) {
         int i;

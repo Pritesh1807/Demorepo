@@ -1,4 +1,4 @@
-package com.mycode.patterns;
+package com.sun;
 
 public class Account{
 	private int acc_number;
