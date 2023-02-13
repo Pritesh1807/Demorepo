@@ -1,3 +1,5 @@
+package com.sun;
+
 public class Primenumber {
     static void prime(int n) {
         int i, m, f = 0;
